@@ -1,7 +1,7 @@
 # Cardiac Arrhythmia Multi Class Classification
 > The study aims to correctly classify 15 different types of cardiac arrhythmia. The project was done as part of Machine Learning class at the University of Texas at Dallas.
 
-The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb)
+The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb)
 
 ## Table of contents
 * [General info](#general-info)
@@ -24,7 +24,7 @@ among which one class represents the absence of disease and the other fifteen cl
 
 ## Setup
 
-The dataset used and its metadata can be found [here](https://github.com/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification/tree/master/Data). The jupyter notebook can be downloaded [here](https://github.com/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb) and can be used to reproduce the result. Installation of TensorFlow would be required to run all the models. 
+The dataset used and its metadata can be found [here](https://github.com/siddharthoza/Cardiac-Arrhythmia-Multi-Class-Classification/tree/master/Data). The jupyter notebook can be downloaded [here](https://github.com/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb) and can be used to reproduce the result. Installation of TensorFlow would be required to run all the models. 
 You can find the instructions to install TensorFlow [here](https://www.tensorflow.org/install/pip).
 
 ## Process
@@ -34,7 +34,7 @@ You can find the instructions to install TensorFlow [here](https://www.tensorflo
 * To improve the accuracy of the models I used bagging and boosting and evaluated the performance of these models.
 * As the data file had 280 variables, I used PCA to improve accuracy.
 
-**The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb)**
+**The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb)**
 
 
 ## Code Examples
